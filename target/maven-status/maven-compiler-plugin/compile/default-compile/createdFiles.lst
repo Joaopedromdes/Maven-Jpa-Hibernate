@@ -1,0 +1,4 @@
+jpateste\teste\CategoriaTeste.class
+jpateste\model\bean\Categoria.class
+jpateste\model\dao\CategoriaDAO.class
+jpateste\connection\ConnectionFactory.class
